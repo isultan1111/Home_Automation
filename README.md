@@ -42,7 +42,6 @@ Ensure proper connections for power (5V and GND) and signal lines.
 
 # Usage
 * Pairing the Bluetooth Module:
-
 Ensure Bluetooth is enabled on your mobile device.
 Pair with the HC-05 module (default password is usually "1234" or "0000").
 
