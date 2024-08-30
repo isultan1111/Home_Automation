@@ -41,16 +41,16 @@ Ensure proper connections for power (5V and GND) and signal lines.
 * Voice Recognition Library: Ensure you have the necessary libraries installed for voice recognition and Bluetooth communication.
 
 # Usage
-*Pairing the Bluetooth Module:
+* Pairing the Bluetooth Module:
 
 Ensure Bluetooth is enabled on your mobile device.
 Pair with the HC-05 module (default password is usually "1234" or "0000").
 
-*Sending Voice Commands:
+* Sending Voice Commands:
 Use a Bluetooth terminal app on your mobile device.
 Send voice commands such as "ON" or "OFF" to control the light.
 
-*Acknowledgments
+* Acknowledgments
 Special thanks to the Arduino community for providing invaluable resources and support.
 Thanks to the developers of the Bluetooth HC-05 module and voice recognition libraries.
 
