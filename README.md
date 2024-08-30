@@ -51,6 +51,5 @@ Send voice commands such as "ON" or "OFF" to control the light.
 
 # Acknowledgments
 Special thanks to the Arduino community for providing invaluable resources and support.
-Thanks to the developers of the Bluetooth HC-05 module and voice recognition libraries.
 
 
